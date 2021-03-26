@@ -1,0 +1,8 @@
+﻿* {font-family: GillSans}
+h1, h2, h3, h4, h5, h6 {color:#0000FF; font-weight:normal}
+
+.trechoMusical {text-align:center; line-height:40px}
+
+#menu { background-color: #00B2C8; list-style-type: none; }
+#menu a { color: #FFFFFF }
+#menu a:hover{color:#FFCC00;}
